@@ -1,0 +1,6 @@
+{
+  "name": "Sling-Pinball Plunge",
+  "description": "A retro-neon hybrid pinball and pachinko game. Launch a glowing ball with slingshot controls into a forest of dissolving pegs, bouncing bumpers, and dynamic multipliers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
